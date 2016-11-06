@@ -1,9 +1,5 @@
 # hello-world
 
-Hello!
+Hello fellow humans!
 
-I'm a relatively new programmer who's just getting his feet wet in Python, R, and Solidity at the moment.
-
-git fetch origin
-git checkout -b readme-edits origin/readme-edits
-git merge master
+I'm a relatively new coder who has begun learning Python, R, and some Solidity. Hoping to learn as much as I can and make this more than just a hobby over time...
